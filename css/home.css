@@ -1,0 +1,6 @@
+section {
+    margin: 56px 0;
+}
+section.about i {
+    font-size: 3rem;
+}

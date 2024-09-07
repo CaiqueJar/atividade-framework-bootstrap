@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a {
+    text-decoration: none !important;
+    color: inherit !important;
+}
+footer {
+    padding: 20px 0;
+    background-color: #ffedf4;
+}
+footer .social-media li {
+    color: #b99ea9;
+    background-color: #fcdce8;
+    clip-path: circle();
+}
+footer .social-media li i {
+    font-size: 1.6rem;
+}
